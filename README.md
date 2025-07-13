@@ -1,28 +1,3 @@
 # SoK-XR_Healthcare
- Extendedreality(XR)systemsincludingvirtual,augmented,and
- mixedrealityoffertransformativepotentialforhealthcareindo
-mainsrangingfromsurgicalplanningtoremoterehabilitationand
- mental-healththerapy.Therichstreamsofsensor,biometric,and
- environmentaldatathatenabletheseapplications,however,also
- createnovelandpoorlyunderstoodprivacyandsecurityvulnera
-bilities:adversariescanexploitunencryptedsignaling,sensorside
-channels,andapplication-layerflawstoinfersensitivepatientin
-formationordisruptclinicalworkflows.Nevertheless,therearen’t
- manythoroughSystematizationofKnowledge(SoK)thatexam
-ineXRforhealthcareatthemoment. InthisSoK,wesurvey65
- peer-reviewedworkspublishedbetween2017and2024acrosslead
-ingXR,security,andprivacyvenues,synthesizingaunifiedthreat
- taxonomythatspansdevice,network,userandcloudlayers.We
- introduceaquantitativeevaluationframeworkXR-PRISM(Privacy
- andRiskImpactScoringMetric),drawingonadaptedCVSS/DREAD
- riskscores,detectionperformance,andusabilityassessmentstorig
-orouslyassessthelevelofsecurityandprivacyrisks.Ouranalysis
- revealscriticalgaps:over70%ofcountermeasureslackstandard
-izedriskevaluations,fewerthan15%includehighprerequisitesto
- launchanattack,andreproducibilityishamperedbyscarcearti
-factreleases.Finally,wechartaresearchroadmapadvocatingfor
- openbenchmarksuiteswithshareddatasets,artifactdisclosure
- policies,cloud-layerprotections,androbustdetectionandrecov
-erymechanisms.Byquantifying“whatworks—andbyhowmuch,”
- thisSoKprovidesadata-drivenfoundationfordevelopingsecure,
- privacy-preserving,andusableXRhealthcaretechnologies.
+
+Extended reality (XR) systems offer transformative potential for healthcare in domains ranging from surgical planning to remote rehabilitation and mental‐health therapy. The rich streams of sensor, biometric, and environmental data that enable these applications, however, also create novel and poorly understood privacy and security vulnerabilities: adversaries can exploit unencrypted signaling, sensor side‐channels, and application‐layer flaws to infer sensitive patient information or disrupt clinical workflows. Nevertheless, there aren't many thorough Systematization of Knowledge (SoK) that examine XR for healthcare at the moment. In this SoK, we survey 65 peer‐reviewed works published between 2017 and 2024 across leading XR, security, and privacy venues, synthesizing a unified threat taxonomy that spans device, network, user and cloud layers. We introduce a quantitative evaluation framework \XRPRISM (Privacy and Risk Impact Scoring Metric), drawing on adapted CVSS/DREAD risk scores, detection performance, and usability assessments to rigorously assess the level of security and privacy risks. Our analysis reveals critical gaps: over 70\% of countermeasures lack standardized risk evaluations, fewer than 15\% include high prerequisites to launch an attack, and reproducibility is hampered by scarce artifact releases. Finally, we chart a research roadmap advocating for open benchmark suites with shared datasets, artifact disclosure policies, cloud‐layer protections, and robust detection and recovery mechanisms. By quantifying “what works—and by how much,” this SoK provides a data‐driven foundation for developing secure, privacy‐preserving, and usable XR healthcare technologies.
